@@ -3,8 +3,11 @@ import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:weatherapp/data/my_location.dart';
 import 'package:weatherapp/data/network.dart';
 import 'package:weatherapp/screens/weather_screen.dart';
-import 'package:flutter_spinkit/flutter_spinkit.dart';
-const apikey='758bcff8b4424e4b61931136cfcf2b47';
+
+import '../cons.dart';
+
+
+
 
 
 class Loading extends StatefulWidget {
